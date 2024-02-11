@@ -8,15 +8,15 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Bachelor in Computer Science
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
-  url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
+  name: Boston University.
+  url: "https://www.bu.edu/cs/"
  
 # Tu CV
-resume: "files/cv.pdf"
+resume: "file:///C:/Users/andry/Downloads/Newest%20Resume.pdf"
  
 # Resumen de ti
 summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
@@ -25,7 +25,7 @@ summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripci�
 socialLinks:
 - name: Github
   icon: "fab fa-github"
-  url: "Link github personal"
+  url: "https://github.com/settings/profile"
  
 - name: Linkedin
   icon: "fab fa-linkedin"
@@ -33,7 +33,7 @@ socialLinks:
  
 - name: Email
   icon: "fas fa-envelope"
-  url: "correo@gmail.com"
+  url: "andryrubio2@gmail.com"
  
 # Insignias de hard skills y soft skills
 badges:
